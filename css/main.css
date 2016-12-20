@@ -1,0 +1,189 @@
+.nav {
+	background-color: #fff
+}
+.nav a {
+	color: #5a5a5a;
+	font-size: 11px;
+	font-weight: bold;
+	padding: 14px 10px;
+}
+.nav li {
+	display: inline;
+	width: 100%;
+}
+.pull-left {
+	float: left;
+}
+.pull-left img {
+	display: inline;
+}
+.pull-right {
+	float: right;
+}
+.clear {
+	clear: both;
+}
+.jumbotron {
+	height: 500px;
+	background-image: url("../images/background.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: rgba(238, 238, 238, 0.6);
+}
+.jumbotron .container {
+	position: relative;
+	top: 100px;
+}
+.jumbotron h1 {
+	font-size: 48px;
+	color: white;
+	font-family: "Arial Black", Gadget,sans-serif;
+	font-weight: bold;
+	position: center;
+}
+.jumbotron p {
+	color: #fff;
+	font-size: 20px;
+	top: 100px;
+}
+.jumbotron a {
+	color: #00b0ff;
+	font-size: 20px;
+	text-decoration: underline;
+}
+.learn-more h3 {
+	font-weight: bold;
+	font-size: 23px
+}
+.learn-more a {
+	color: #00b0ff;
+	text-decoration: underline;
+	font-size: 15px;
+}
+.learn-more {
+	height: 480px;
+}
+.footer {
+	height: 200px;
+	border-top: 1px solid #d8d8d8;
+}
+.more-info {
+	border-top: 1px solid #d8d8d8;
+	position: relative;
+	bottom: 0;
+}
+.footer li {
+	text-decoration: none;
+	font-weight: bold;
+	list-style-type: none;
+	padding: 0;
+	margin-left: 0;
+	margin-top: 2px;
+}
+.footer h4 {
+	font-weight: bold;
+	margin-top: 30px;
+}
+.jumbotron-about {
+	height: 300px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-image: url("../images/about-background.jpg");
+}
+.jumbotron-about h1 {
+	font-size: 48px;
+	color: black;
+	font-family: "Arial Black", Gadget,sans-serif;
+	font-weight: bold;
+	position: center;
+}
+.jumbotron-about .container {
+	position: relative;
+	top: 100px;
+}
+.jumbotron-about a {
+	position: center;
+	font-weight: bold;
+	color: #00b0ff
+}
+.jumbotron-about p {
+	position: center;
+	font-weight: bold;
+	font-size: 20px;
+}
+.about-weliketocode {
+	height: 300px;
+	background-color: #e9eaea;
+}
+.about-weliketocode a {
+	font-weight: bold;
+	color: #00b0ff;
+	margin-top: 20px;
+}
+.about-weliketocode h3 {
+	margin-top: 50px;
+	font-weight: bold;
+}
+.about-weliketocode p {
+	margin-top: 20px;
+}
+.our-staff {
+	height: 480px;
+	background-color: blue;
+}
+.our-team {
+	border-top: 1px solid #d8d8d8;
+	height: 600px;
+	background-color: #e9eaea;
+	padding-top: 100px;
+}
+.ronnie {
+	float: left;
+	height: 400px;
+	width: 300px;
+	background-color: white;
+	padding-top: 2%;
+	padding-left: 4%;
+}
+.ronnie:hover {
+	background-color: #008080;
+}
+.ronnie-pic {
+	height: 200px;
+	width: 200px;
+	background-image: url("../images/ronnie-pic.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 100px;
+	margin-top: 10%;
+}
+.ronnie-text {
+	text-align: center;
+	padding-top: 200px;
+	color: #00b0ff;
+}
+.george {
+	float: right;
+	height: 400px;
+	width: 300px;
+	background-color: white;
+	padding-top: 2%;
+	padding-left: 4%;
+}
+.george:hover {
+	background-color: #008080;
+}
+.george-pic {
+	height: 200px;
+	width: 200px;
+	background-image: url("../images/george-pic.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 100px;
+	margin-top: 10%;
+}
+.george-text {
+	text-align: center;
+	padding-top: 200px;
+	color: #00b0ff;
+}
